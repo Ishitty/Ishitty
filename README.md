@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA<br>👯 I’m looking to collaborate with open source enthusiasts and developers<br>🤝 I’m looking for help with gaming projects<br>🌱 I’m currently learning<br>💬 Ask me about JavaScript , C++<br>⚡ Fun fact I love both my Life and Coding
+🔭 I’m currently working on DSA<br>👯 I’m looking to collaborate with open source enthusiasts and developers<br>🤝 I’m looking for help with gaming projects<br>🌱 I’m currently learning DSA & Designing<br>💬 Ask me about JavaScript , C++<br>⚡ Fun fact I love both my Life and Coding
 
 
 ## 🌐 Socials:
